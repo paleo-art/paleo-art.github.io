@@ -1,0 +1,21 @@
+.full-screen {
+	height: 100vh;
+	min-height: 500px;
+	background-image: url('background.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.bg-overlay {
+	background: rgba(0,0,0,0.37);
+}
+
+.about {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: smaller;
+    padding-left: 5px;
+    padding-right: 5px;
+}
